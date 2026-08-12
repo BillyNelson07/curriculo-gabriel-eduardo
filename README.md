@@ -4,7 +4,7 @@ Este repositório contém uma página web simples e estruturada desenvolvida par
 
 O projeto foi construído como parte de uma atividade prática no curso de **Desenvolvimento de Sistemas do SENAI**, focando no uso de **HTML5** semântico e **CSS3** para estilização limpa e responsiva, pronta para consumo por recrutadores e leitores de telas/ATS.
 
-🌐 **Acesse a versão online:** [https://billynelson07.github.io/curriculo-gabriel-eduardo/]
+🌐 **Acesse a versão online:** https://billynelson07.github.io/curriculo-gabriel-eduardo/
 
 ---
 
